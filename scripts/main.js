@@ -1,5 +1,5 @@
 
-
+//Example One: Trivia
 // import data from "./data.js"
 // import dom from "./dom.js"
 
